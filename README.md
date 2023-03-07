@@ -1,2 +1,2 @@
 # Floats-to-integers
-Converting floats to integers
+console.log(parseInt(123.321));
